@@ -1,0 +1,11 @@
+https://youzan.github.io/vant/#/zh-CN/quickstart
+
+�📦  Successfully created project hello-world.
+�👉  Get started with the following commands:
+
+ $ cd Demo
+ $ npm run serve
+
+ vue ui
+
+ https://github.com/youzan/vant-demo

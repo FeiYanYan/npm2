@@ -1,0 +1,6 @@
+vue_shop-master: https://github.com/sirfuao/vue_shop
+npm run serve
+
+vue_demo-main: 有問題 https://github.com/yk2012/vue_demo
+
+frontEndLearning-master: 前後端學習 https://github.com/chuyueZhang/frontEndLearning

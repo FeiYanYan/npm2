@@ -8,9 +8,9 @@
     "url": "https://github.com/FeiYanYan/npm2.git"
   },
   "dependencies": {
-    "jquery": "^3.5.1"
+    "jquery": "^3.5.1",
+    "vant": "^3.0.6"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
